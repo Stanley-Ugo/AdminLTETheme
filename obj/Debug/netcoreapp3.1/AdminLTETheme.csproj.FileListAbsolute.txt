@@ -35,3 +35,4 @@ C:\Projects\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.dll
 C:\Projects\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.pdb
 C:\Projects\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.genruntimeconfig.cache
 C:\Projects\AdminLTETheme\obj\Debug\netcoreapp3.1\AdminLTETheme.csproj.CopyComplete
+C:\Projects\AdminLTETheme\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
